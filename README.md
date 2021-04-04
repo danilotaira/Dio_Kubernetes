@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/Projeto%20Microservices-checkout%20Payment-blue?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Projeto-kubernetes-blue?style=for-the-badge&logo=ghost)
 # Objetivo
 Este projeto foi desenvolvido baseado no módulo __Rodando sua aplicação Java no Kubernetes__ da DIO - DIGITAL INNOVATION ONE - __BOOTCAMP Inter Java Developer__.
 
