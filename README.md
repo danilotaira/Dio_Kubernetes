@@ -1,15 +1,16 @@
-![Badge](https://img.shields.io/badge/Projeto-kubernetes-blue?style=for-the-badge&logo=ghost)
-# Objetivo
-Este projeto foi desenvolvido baseado no módulo __Rodando sua aplicação Java no Kubernetes__ da DIO - DIGITAL INNOVATION ONE - __BOOTCAMP Inter Java Developer__.
+![Badge](https://img.shields.io/badge/project-kubernetes-blue?style=for-the-badge&logo=ghost)
+# Objective
 
-Utilizar docker em Kubernetes, localmente. Para isto necessário instalar minikube na máquina.
+This project was developed based on the module __Rodando sua aplicação Java no Kubernetes__ on the DIO - DIGITAL INNOVATION ONE - __BOOTCAMP Inter Java Developer__.
 
-Ministrado pelo _Sandro Giacomozzi_.
+Use docker in Kubernetes, locally. For this it is necessary to install a minikube on the machine.
+
+Taught by _Sandro Giacomozzi_.
 
 * Java 11
 * Maven
 * Intellj IDEA Community Edition
-* Controle de versão GIT
+* GIT
 * SpringBoot
 * Minikube
 * Kubernetes
